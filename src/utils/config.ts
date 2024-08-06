@@ -26,7 +26,7 @@ export const config: IConfig = {
   ignore: null,
   disableIframeParents: true,
   seo: true,
-  rewriteHTML: '',
+  rewriteHTML: 'https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%8F%E7%99%BD%20-%20%E4%B8%8E%E9%A3%8E%E5%85%B1%E8%88%9E,%E9%9A%8F%E5%BF%83%E8%80%8C%E8%A1%8C',
 };
 
 const MultiTypeKeys = ['detectors', 'ondevtoolclose', 'ignore'];
